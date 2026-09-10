@@ -9,7 +9,4 @@ public class Emoji {
             System.out.println("Erro ao alterar a codificação para UTF-8: " + e.getMessage());
         }
     }
-    Emoji(){
-        this.Emoji(args);
-    }
 }
